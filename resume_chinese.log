@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.8)  13 JUL 2017 09:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.8)  13 JUL 2017 23:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -253,25 +253,25 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./webwx
 getmsgimg.jpeg>] [2] [3]
-Overfull \hbox (34.3444pt too wide) in paragraph at lines 119--120
+Overfull \hbox (34.3444pt too wide) in paragraph at lines 120--121
 []\OT1/cmr/m/n/12 Nginx\C70/gbsn/m/n/12/70 p \C70/gbsn/m/n/12/5e ¦ \C70/gbsn/m/
 n/12/6a ! \C70/gbsn/m/n/12/57 W\OT1/cmr/m/n/12 : https://github.com/luoxiaojun1
 992/nginx[]http[]gray[]module 
  []
 
 
-Overfull \hbox (0.1962pt too wide) in paragraph at lines 121--122
+Overfull \hbox (0.1962pt too wide) in paragraph at lines 122--123
 []\OT1/cmr/m/n/12 WebAssembly\C70/gbsn/m/n/12/5b f \C70/gbsn/m/n/12/4e `\OT1/cm
 r/m/n/12 : https://github.com/luoxiaojun1992/webassembly-
  []
 
 [4] (./resume_chinese.aux) ) 
 Here is how much of TeX's memory you used:
- 2946 strings out of 493014
- 41436 string characters out of 6133352
+ 2957 strings out of 493014
+ 41644 string characters out of 6133352
  103515 words of memory out of 5000000
- 6405 multiletter control sequences out of 15000+600000
- 34412 words of font info for 123 fonts, out of 8000000 for 9000
+ 6415 multiletter control sequences out of 15000+600000
+ 34706 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,6n,28p,242b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/pub
@@ -323,25 +323,26 @@ al/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb></usr/local/texlive/2
 016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu83.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu86.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnu87.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arp
-hic/gbsnu/gbsnu89.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gb
-snu8b.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.
-pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/arphic/gbsnu/gbsnu96.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/arphic/gbsnu/gbsnu98.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu9a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
-pe1/arphic/gbsnu/gbsnuff.pfb>
-Output written on resume_chinese.pdf (4 pages, 383165 bytes).
+st/fonts/type1/arphic/gbsnu/gbsnu82.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/arphic/gbsnu/gbsnu83.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu86.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu87.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu89.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu94.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu96.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu98.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu9a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnuff.pfb>
+Output written on resume_chinese.pdf (4 pages, 390438 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
+ 296 PDF objects out of 1000 (max. 8388607)
+ 217 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
