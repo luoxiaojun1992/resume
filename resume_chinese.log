@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.8)  10 NOV 2017 00:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.8)  16 NOV 2017 10:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -253,7 +253,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./webwx
 getmsgimg.jpeg>]
-Overfull \hbox (1.57672pt too wide) in paragraph at lines 74--75
+Overfull \hbox (1.57672pt too wide) in paragraph at lines 75--76
 []\OT1/cmr/m/n/12 PHP7.0\C70/gbsn/m/n/12/53 G \C70/gbsn/m/n/12/7e § \C70/gbsn/m
 /n/12/ff ^^L \C70/gbsn/m/n/12/89 ã \C70/gbsn/m/n/12/51 ³\OT1/cmr/m/n/12 excepti
 on mes-sage\C70/gbsn/m/n/12/4e ^^M \C70/gbsn/m/n/12/51 | \C70/gbsn/m/n/12/5b ¹ 
@@ -262,7 +262,7 @@ on mes-sage\C70/gbsn/m/n/12/4e ^^M \C70/gbsn/m/n/12/51 | \C70/gbsn/m/n/12/5b ¹
  []
 
 [2] [3]
-Overfull \hbox (34.3444pt too wide) in paragraph at lines 111--112
+Overfull \hbox (34.3444pt too wide) in paragraph at lines 112--113
 []\OT1/cmr/m/n/12 Nginx\C70/gbsn/m/n/12/70 p \C70/gbsn/m/n/12/5e ¦ \C70/gbsn/m/
 n/12/6a ! \C70/gbsn/m/n/12/57 W\OT1/cmr/m/n/12 : https://github.com/luoxiaojun1
 992/nginx[]http[]gray[]module 
@@ -270,10 +270,10 @@ n/12/6a ! \C70/gbsn/m/n/12/57 W\OT1/cmr/m/n/12 : https://github.com/luoxiaojun1
 
 [4] (./resume_chinese.aux) ) 
 Here is how much of TeX's memory you used:
- 2997 strings out of 493014
- 42421 string characters out of 6133352
+ 3005 strings out of 493014
+ 42585 string characters out of 6133352
  105515 words of memory out of 5000000
- 6452 multiletter control sequences out of 15000+600000
+ 6460 multiletter control sequences out of 15000+600000
  35569 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,6n,28p,265b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -345,7 +345,7 @@ phic/gbsnu/gbsnu97.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/g
 bsnu/gbsnu98.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/g
 bsnu9a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff
 .pfb>
-Output written on resume_chinese.pdf (4 pages, 414327 bytes).
+Output written on resume_chinese.pdf (4 pages, 417699 bytes).
 PDF statistics:
  308 PDF objects out of 1000 (max. 8388607)
  226 compressed objects within 3 object streams
