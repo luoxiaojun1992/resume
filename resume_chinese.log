@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.29)  13 SEP 2018 23:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.29)  20 SEP 2018 23:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -316,8 +316,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./webwx
-getmsgimg.jpeg>]
-Overfull \hbox (1.57672pt too wide) in paragraph at lines 76--77
+getmsgimg.jpeg>] [2]
+Overfull \hbox (1.57672pt too wide) in paragraph at lines 78--79
 []\OT1/cmr/m/n/12 PHP7.0\C70/gbsn/m/n/12/53 G \C70/gbsn/m/n/12/7e § \C70/gbsn/m
 /n/12/ff ^^L \C70/gbsn/m/n/12/89 ã \C70/gbsn/m/n/12/51 ³\OT1/cmr/m/n/12 excepti
 on mes-sage\C70/gbsn/m/n/12/4e ^^M \C70/gbsn/m/n/12/51 | \C70/gbsn/m/n/12/5b ¹ 
@@ -325,94 +325,121 @@ on mes-sage\C70/gbsn/m/n/12/4e ^^M \C70/gbsn/m/n/12/51 | \C70/gbsn/m/n/12/5b ¹
 /n/12/66 ÿ \C70/gbsn/m/n/12/63 b\OT1/cmr/m/n/12 mcrypt\C70/gbsn/m/n/12/7b I
  []
 
-[2] [3]
-Overfull \hbox (34.3444pt too wide) in paragraph at lines 112--113
+[3] [4]
+Overfull \hbox (24.86096pt too wide) in paragraph at lines 140--141
+[]\C70/gbsn/m/n/12/62 € \C70/gbsn/m/n/12/67 / \C70/gbsn/m/n/12/68 ^^H\OT1/cmr/m
+/n/12 :Swoole + PHP7.1 + Lar-avel + AMQP\C70/gbsn/m/n/12/62 i \C70/gbsn/m/n/12/
+5c U \OT1/cmr/m/n/12 + \C70/gbsn/m/n/12/81 ê \C70/gbsn/m/n/12/5d ñ \C70/gbsn/m/
+n/12/5c ^^A \C70/gbsn/m/n/12/88 Å \C70/gbsn/m/n/12/76 „\OT1/cmr/m/n/12 RabbitMQ
+
+ []
+
+
+Overfull \hbox (91.05206pt too wide) in paragraph at lines 142--143
+[]\C70/gbsn/m/n/12/89 ã \C70/gbsn/m/n/12/51 ³ \C70/gbsn/m/n/12/6d ˆ \C70/gbsn/m
+/n/12/8d 9 \C70/gbsn/m/n/12/8f Û \C70/gbsn/m/n/12/7a \OT1/cmr/m/n/12 MySQL\C70
+/gbsn/m/n/12/8f Þ \C70/gbsn/m/n/12/63 ¥ \C70/gbsn/m/n/12/4e " \C70/gbsn/m/n/12/
+59 1 \C70/gbsn/m/n/12/95 î \C70/gbsn/m/n/12/98 ˜\OT1/cmr/m/n/12 (https://github
+.com/laravel/framework/pull/25266) 
+ []
+
+
+Overfull \hbox (34.3444pt too wide) in paragraph at lines 150--151
 []\OT1/cmr/m/n/12 Nginx\C70/gbsn/m/n/12/70 p \C70/gbsn/m/n/12/5e ¦ \C70/gbsn/m/
 n/12/6a ! \C70/gbsn/m/n/12/57 W\OT1/cmr/m/n/12 : https://github.com/luoxiaojun1
 992/nginx[]http[]gray[]module 
  []
 
-[4] (./resume_chinese.aux) ) 
+
+Overfull \hbox (48.91843pt too wide) in paragraph at lines 151--152
+[]\OT1/cmr/m/n/12 Laravel\C70/gbsn/m/n/12/68 F \C70/gbsn/m/n/12/67 ¶ \C70/gbsn/
+m/n/12/4e ‹ \C70/gbsn/m/n/12/52 ¡ \C70/gbsn/m/n/12/56 Þ \C70/gbsn/m/n/12/6e Ú\O
+T1/cmr/m/n/12 Bugfix: https://github.com/laravel/framework/pull/25266 
+ []
+
+[5] [6] (./resume_chinese.aux) ) 
 Here is how much of TeX's memory you used:
- 2989 strings out of 492649
- 42170 string characters out of 6129622
+ 3082 strings out of 492649
+ 44049 string characters out of 6129622
  108821 words of memory out of 5000000
- 6752 multiletter control sequences out of 15000+600000
- 35569 words of font info for 127 fonts, out of 8000000 for 9000
+ 6842 multiletter control sequences out of 15000+600000
+ 38121 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,28p,281b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/
-gbsnu/gbsnu30.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/
-gbsnu4e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu4
-f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb>
-</usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb></usr/local/texliv
-e/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu55.pfb></usr/local/texlive/2018
-/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb></usr/local/texlive/2018/texmf
--dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb></usr/local/texlive/2018/texmf-dist/
-fonts/type1/arphic/gbsnu/gbsnu58.pfb></usr/local/texlive/2018/texmf-dist/fonts/
-type1/arphic/gbsnu/gbsnu59.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
-arphic/gbsnu/gbsnu5b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic
-/gbsnu/gbsnu5c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu
-/gbsnu5d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
-5e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb
-></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb></usr/local
-/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb></usr/local/texlive/201
-8/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb></usr/local/texlive/2018/texm
-f-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb></usr/local/texlive/2018/texmf-dist
-/fonts/type1/arphic/gbsnu/gbsnu67.pfb></usr/local/texlive/2018/texmf-dist/fonts
-/type1/arphic/gbsnu/gbsnu68.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu6a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu6b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsn
-u/gbsnu6c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
-u6d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pf
-b></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb></usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb></usr/local/texl
-ive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb></usr/local/texlive/20
-18/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb></usr/local/texlive/2018/tex
-mf-dist/fonts/type1/arphic/gbsnu/gbsnu74.pfb></usr/local/texlive/2018/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu75.pfb></usr/local/texlive/2018/texmf-dist/font
-s/type1/arphic/gbsnu/gbsnu76.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
-1/arphic/gbsnu/gbsnu77.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu78.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbs
-nu/gbsnu79.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbs
-nu7a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.p
-fb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb></usr/local/texlive/2
-018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu81.pfb></usr/local/texlive/2018/te
-xmf-dist/fonts/type1/arphic/gbsnu/gbsnu82.pfb></usr/local/texlive/2018/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu83.pfb></usr/local/texlive/2018/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu84.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
-e1/arphic/gbsnu/gbsnu86.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arp
-hic/gbsnu/gbsnu87.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu88.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gb
-snu89.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.
-pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/local/texlive/2018/t
-exmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb></usr/local/texlive/2018/texmf-d
-ist/fonts/type1/arphic/gbsnu/gbsnu94.pfb></usr/local/texlive/2018/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu95.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
-pe1/arphic/gbsnu/gbsnu96.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/ar
-phic/gbsnu/gbsnu97.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/g
-bsnu/gbsnu98.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/g
-bsnu9a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff
-.pfb>
-Output written on resume_chinese.pdf (4 pages, 419176 bytes).
+</usr/local/texlive/2018/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnu30.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gb
+snu/gbsnu4e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gb
+snu4f.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu50.
+pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu54.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu55.pfb></usr/local/texlive/2018/t
+exmf-dist/fonts/type1/arphic/gbsnu/gbsnu56.pfb></usr/local/texlive/2018/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu57.pfb></usr/local/texlive/2018/texmf-dist/fo
+nts/type1/arphic/gbsnu/gbsnu58.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
+pe1/arphic/gbsnu/gbsnu59.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu5b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/g
+bsnu/gbsnu5c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/g
+bsnu5d.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e
+.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu60.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu61.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu63.pfb></usr/local/texlive/2018/
+texmf-dist/fonts/type1/arphic/gbsnu/gbsnu64.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu65.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu66.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
+ype1/arphic/gbsnu/gbsnu67.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/a
+rphic/gbsnu/gbsnu68.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu6a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/
+gbsnu6b.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6
+c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6d.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6e.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu6f.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu70.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu71.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu72.pfb></usr/local/texlive/2018/texmf
+-dist/fonts/type1/arphic/gbsnu/gbsnu73.pfb></usr/local/texlive/2018/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu74.pfb></usr/local/texlive/2018/texmf-dist/fonts/
+type1/arphic/gbsnu/gbsnu75.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
+arphic/gbsnu/gbsnu76.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic
+/gbsnu/gbsnu77.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu78.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
+79.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7a.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7b.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7c.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7d.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7e.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu7f.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu81.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu82.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
+/arphic/gbsnu/gbsnu83.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphi
+c/gbsnu/gbsnu84.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu86.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsn
+u87.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu88.pf
+b></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu89.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8a.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8c.pfb></usr/local/texlive/20
+18/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8d.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb></usr/local/texlive/2018/texmf-dis
+t/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/local/texlive/2018/texmf-dist/font
+s/type1/arphic/gbsnu/gbsnu91.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu94.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arph
+ic/gbsnu/gbsnu95.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbs
+nu/gbsnu96.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu97.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu98.p
+fb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
+Output written on resume_chinese.pdf (6 pages, 465529 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
+ 326 PDF objects out of 1000 (max. 8388607)
+ 239 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

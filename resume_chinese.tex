@@ -54,19 +54,21 @@
 		% 专业技能
 		\section{专业技能}
 			\begin{itemize}
-				\item{熟悉PHP语言}
-				\item{熟悉Linux、Mac开发环境}
-				\item{熟悉YIi、Laravel、ThinkPHP框架}
-				\item{熟悉框架基本原理，自己动手写过框架}
-				\item{熟悉Git使用，工作流}
-				\item{熟悉Markdown文档编写}
-				\item{熟悉LAMP编译安装}
-				\item{了解HTTP、TCP协议}
-				\item{了解Redis协议、持久化等}
-				\item{了解部分PHP内核原理}
-				\item{了解MySQL设计优化}
-				\item{了解常用的设计模式(单例、工厂、观察者、责任链等)}
-				\item{了解Go语言开发}
+				\item{精通PHP}
+				\item{熟悉常用框架(Laravel、Yii、TP)}
+				\item{熟悉MySQL使用及基本原理}
+				\item{熟悉Go语言}
+				\item{熟悉HTTP协议}
+				\item{熟悉RabbitMQ使用}
+				\item{熟悉Redis使用及基本原理}
+				\item{熟悉微服务架构模式}
+				\item{熟悉Git使用}
+				\item{熟悉协程开发及基本原理}
+				\item{了解TCP协议}
+				\item{了解常用设计模式}
+				\item{了解基本算法(排序、查找、二叉树)}
+				\item{了解ReactJS}
+				\item{了解Nginx调优}
 			\end{itemize}
 		
 		% 项目经验
@@ -102,21 +104,61 @@
 				\item{电商外包开发}
 				\item{微信公众号管理平台开发}
 			\end{itemize}
+			
+		\section{项目经验(HTTP代理缓存服务器)}
+			\begin{itemize}
+				\item{支持filter、logger扩展，支持动静态数据合并(协程并发请求，替换tag)，敏感词替换(AC自动机)，限流，提供扩展模板代码生成工具，提供缓存清除命令行工具}
+				\item{技术栈：Go(net/http) + Redis}
+				\item{性能优化：用LF分割替代json序列化，减少不必要的正则匹配，进程内cache(减少redis查询次数)}
+			\end{itemize}
+			
+		\section{项目经验(商品服务)}
+			\begin{itemize}
+				\item{包含商品、SKU、规格属性、图片、类目相关新增、查询、搜索、编辑、删除接口}
+				\item{技术栈：Swoole + PHP7.1 + Lumen + ES + Redis}
+				\item{负责任务：接口实现落地，基础组件封装(参数校验、ES Query Builder、Redis Lock、Mockery抽象封装等)、接口文档编写、单元测试编写}
+				\item{相关链接:}
+				\item{https://github.com/luoxiaojun1992/laravel-elasticsearch}
+				\item{https://github.com/luoxiaojun1992/one-step-mock}
+				\item{https://github.com/luoxiaojun1992/redlock}
+			\end{itemize}
+			
+		\section{项目经验(库存服务)}
+			\begin{itemize}
+				\item{技术栈：Swoole + PHP7.1 + Lumen + SpringCloud(zuul + ribbon + eureka) + Redis + ES}
+				\item{负责任务：库存业务逻辑梳理，服务接口落地，单元测试，接口性能调优，Swoole性能调优，压力测试，接口文档编写，sdk开发，业务接入开发，业务库存重构抽象}
+			\end{itemize}
+			
+		\section{项目经验(日志服务)}
+			\begin{itemize}
+				\item{技术栈:Swoole  + PHP7.1 + ES + Redis + Kibana + Monolog}
+				\item{负责任务：monolog udp handler开发，实现调用udp接口发送日志，日志buffer(批量发送)}
+			\end{itemize}
+			
+		\section{项目经验(消息队列服务)}
+			\begin{itemize}
+				\item{技术栈:Swoole + PHP7.1 + Laravel + AMQP扩展 + 自己封装的RabbitMQ SDK + RabbitMQ}
+				\item{负责任务：服务架构设计、服务及sdk开发、接口文档编写、实现RabbitMQ连接丢失重连、实现延迟队列(RabbitMQ死信队列 + 数据库 + 定时查询排序入队)、镜像队列}
+				\item{解决消费进程MySQL连接丢失问题(https://github.com/laravel/framework/pull/25266)}
+				\item{解决队列消费并发度提高后暴露出的事务死锁问题}
+			\end{itemize}
 		
 		% 开源贡献
 		\section{开源贡献}
 		 	\begin{itemize}
-				\item{GitHub: https://github.com/luoxiaojun1992}
-				\item{PHP框架: https://github.com/luoxiaojun1992/lb\_framework.git}
 				\item{Yii2-Tinker: https://github.com/luoxiaojun1992/yii2-tinker}
 				\item{Nginx灰度模块: https://github.com/luoxiaojun1992/nginx\_http\_gray\_module}
+				\item{Laravel框架事务回滚Bugfix: https://github.com/laravel/framework/pull/25266}
 				\item{Telegraf插件: https://github.com/luoxiaojun1992/telegraf}
+				\item{HTTP代理缓存: https://github.com/luoxiaojun1992/http\_cache}
 			\end{itemize}
 		
-		% 个人博客
-		\section{个人博客}
+		% 社区主页
+		\section{社区主页}
 			\begin{itemize}
+				\item{https://github.com/luoxiaojun1992}
 				\item{https://my.oschina.net/luoxiaojun1992/blog}
+				\item{https://gitee.com/lb002}
 			\end{itemize}
 
 	\end{CJK}
