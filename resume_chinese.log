@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.29)  20 SEP 2018 23:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.29)  13 OCT 2018 23:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -359,10 +359,10 @@ T1/cmr/m/n/12 Bugfix: https://github.com/laravel/framework/pull/25266
 
 [5] [6] (./resume_chinese.aux) ) 
 Here is how much of TeX's memory you used:
- 3082 strings out of 492649
- 44049 string characters out of 6129622
+ 3083 strings out of 492649
+ 44069 string characters out of 6129622
  108821 words of memory out of 5000000
- 6842 multiletter control sequences out of 15000+600000
+ 6843 multiletter control sequences out of 15000+600000
  38121 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,28p,281b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -436,7 +436,7 @@ nu/gbsnu96.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbs
 nu97.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu98.p
 fb></usr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
-Output written on resume_chinese.pdf (6 pages, 465529 bytes).
+Output written on resume_chinese.pdf (6 pages, 466130 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  239 compressed objects within 3 object streams
